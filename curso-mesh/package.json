@@ -1,0 +1,17 @@
+{
+  "name": "curso-mesh",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "simple-tx.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caro Lang",
+  "license": "ISC",
+  "dependencies": {
+    "@meshsdk/core": "^1.5.25",
+    "meshsdk": "^0.0.1",
+    "tsx": "^4.16.2"
+  }
+}

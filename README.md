@@ -33,6 +33,9 @@ Este repositorio contiene el ambiente de desarrollo local con las herramientas d
 
 ---
 
+Se corre usando
+npx tsx simple-tx.ts
+
 Este trabajo está licenciado bajo la licencia
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
